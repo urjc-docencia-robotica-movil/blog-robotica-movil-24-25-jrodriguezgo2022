@@ -85,4 +85,8 @@ In this section there's nothing really exciting to show as the practice does not
 
 ## VIDEO
 
-https://github.com/user-attachments/assets/2ce890ed-6978-4ef0-86af-da889941defc
+
+
+
+https://github.com/user-attachments/assets/b756433d-7139-4f87-9b0d-3baeeed1932d
+
