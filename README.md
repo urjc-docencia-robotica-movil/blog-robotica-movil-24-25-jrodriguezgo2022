@@ -85,6 +85,8 @@ In this section there's nothing really exciting to show as the practice does not
 
 ## VIDEO
 
+This video is set to x2 speed:
+
 [p1_robotica_movil_x2_new.webm](https://github.com/user-attachments/assets/9f16bd43-bc35-4852-8636-1c4e10d78e80)
 
 
