@@ -75,8 +75,14 @@ In this section there's nothing really exciting to show as the practice does not
             if direction >= 0.5:
                 angle *= -1
             # It also takes a random time to rotate
+
+
+
+
             time_rotating = random.uniform(0.5,1.5)
 
 ```
 
 ## VIDEO
+
+https://github.com/user-attachments/assets/2ce890ed-6978-4ef0-86af-da889941defc
