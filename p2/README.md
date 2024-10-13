@@ -53,18 +53,13 @@ As code snippets I'll put the PID values for both of the PIDS:
 
 ```python
 
-# If the random number is over 0.5 turns to left
-            # else to right
-            angle = 1.2
-            direction = random.uniform(0, 1)
-            if direction >= 0.5:
-                angle *= -1
-            # It also takes a random time to rotate
-
-
-
-
-            time_rotating = random.uniform(0.5,1.5)
+    # PID for no ackerman
+    #Kp_angle = 0.0252
+    #Kd_angle = 0.0229
+    
+    # PID for ackerman
+    Kp_angle = 0.00721
+    Kd_angle = 0.08359
 
 ```
 
