@@ -67,8 +67,9 @@ As code snippets I'll put the PID values for both of the PIDS:
 
 Note: both time and oscilations are bigger due the capture of the video. Time is almost 4 or 5 seconds higher. Also oscilation is more noticeable in Ackerman in non Ackerman is almost the same.
 
+No ackerman video x2 speed:
 
-
+[p2_no_ackerman.webm](https://github.com/user-attachments/assets/c4ef8824-1961-467f-801e-b96d684f828e)
 
 Ackerman video x2 speed:
 
