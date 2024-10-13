@@ -26,27 +26,6 @@ For the ackerman was different, I adjusted the Kp worked and then the Kd, and I 
 
 Most of what I proved is related to the PID, but I liked how I did the linear speed, It was made with a constant speed to where I substracted the angular speed. With this idea its fast on straight lines and much slower on turns.
 
-### Forward ways
-
-I tried two different ways of going forward.
-1. Just go straight.
-2. Go straight and turn a little to the side where it had turned in the turn state.
-
-Both worked well, but the second way prone to get stuck more times. So I decided first way.
-
-### Backward ways
-
-This time I only adjust the time to go back
-
-### Spiral 
-
-In this case I tried two main ways:
-
-1. More angular speed
-2. More linear speed
-
-In my case worked better the linear. After deciding this I had to prove how much increment worked better, which ended up being += 0.001
-
 ## CODE SNIPPETS
 
 As code snippets I'll put the PID values for both of the PIDS:
