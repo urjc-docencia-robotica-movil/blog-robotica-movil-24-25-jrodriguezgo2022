@@ -39,7 +39,13 @@ I also discard laser distances over 3 meters.
 
 Lastly, I will put in here the function I used for generate the vector, as it is not a common function:
 
-$\[ f(x) = \frac{150}{1 + e^x} \]$
+<h2>Function Definition</h2>
+
+<p style="font-size:18px">The function is defined as:</p>
+
+\[
+f(x) = \frac{150}{1 + e^x}
+\]
 
 Being x the distance to the objective.
 
