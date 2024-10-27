@@ -42,7 +42,7 @@ Lastly, I will put in here the function I used for generate the vector, as it is
 
 $\
 f(x) = \frac{150}{1 + e^x}
-$\
+\$
 
 Being x the distance to the objective.
 
