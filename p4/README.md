@@ -31,6 +31,10 @@ In this practice I have got some problems, those are listed below:
 The cost map is simply made by advancing node with the philosophy of breadth first search. I save the value to the center and then adds the diatnce from last node to actual node.
 Also I had to save the obstacles to make the grid close to them weight more, so the car doesnt get close.
 
+This is a screenchot of the map expanded:
+
+![Captura desde 2024-11-27 22-18-44](https://github.com/user-attachments/assets/7e91da00-3265-4f4d-beee-0b69a918e393)
+
 ## MOVEMENT
 
 Just find the minimun index of the submatrix, changing them to real coords, find the angle and making atan2 to them.
@@ -38,4 +42,7 @@ Just find the minimun index of the submatrix, changing them to real coords, find
 
 ## VIDEO
 
-Video of the car moving:
+Video of the car moving, and changing objective before arriving:
+
+[Grabación de pantalla desde 2024-11-27 22-22-45.webm](https://github.com/user-attachments/assets/93238c90-62cc-435f-a8a6-f0c642334994)
+
