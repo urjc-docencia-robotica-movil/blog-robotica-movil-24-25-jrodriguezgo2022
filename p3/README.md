@@ -1,4 +1,4 @@
-# P2 Robotica Movil
+# P3 Robotica Movil
 
 ## OBJECTIVE
 
@@ -25,7 +25,7 @@ In this practice I have got some problems, those are listed below:
 3. Balance attractive force with repulsive force
 4. Asigns speed to each case
 
-These three are the niggest problems I have encountered.
+These three are the biggest problems I have encountered.
 
 ## REPULSIVE VECTOR
 
