@@ -38,8 +38,4 @@ Just find the minimun index of the submatrix, changing them to real coords, find
 
 ## VIDEO
 
-Note: for some reason this practice goes so laggy on my pc, even with it makes the circuit entirely.
-
-Video of obstacle avoidance x2:
-
-[obstacle_avoidance_p3_x2.webm](https://github.com/user-attachments/assets/8fe1b3bd-2c77-4edb-aa22-4fa1d09588d8)
+Video of the car moving:
